@@ -58,16 +58,16 @@
 
 
 
-let a = parseInt(prompt("1-sonni kiriting:"));
-let b = parseInt(prompt("2-sonni kiriting:"));
-let c = parseInt(prompt("3-sonni kiriting:"));
+// let a = prompt("1-sonni kiriting:");
+// let b = prompt("2-sonni kiriting:");
+// let c = prompt("3-sonni kiriting:");
 
-if (a === b) {
-    console.log("Farqli son tartib raqami: 3");
-} else if (a === c) {
-    console.log("Farqli son tartib raqami: 2");
-} else if (b === c) {
-    console.log("Farqli son tartib raqami: 1");
-} else {
-    console.log("Ikkita teng son yo'q");
-}
+// if (a === b) {
+//     console.log("Farqli son tartib raqami: 3");
+// } else if (a === c) {
+//     console.log("Farqli son tartib raqami: 2");
+// } else if (b === c) {
+//     console.log("Farqli son tartib raqami: 1");
+// } else {
+//     console.log("Ikkita teng son yo'q");
+// }
