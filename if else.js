@@ -35,3 +35,10 @@
 
 // console.log("Musbat sonlar:", musbat);
 // console.log("Manfiy sonlar:", manfiy);
+
+
+
+let a = prompt("a soni");
+let b = prompt(" b soni");
+let c = prompt("c soni");
+
