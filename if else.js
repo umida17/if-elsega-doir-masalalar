@@ -73,6 +73,8 @@
 // }
 
 
+
+
 // let x = prompt("x sonini kiriting");
 // let y;
 //  if (x < -2 || x > 2) {
@@ -82,4 +84,8 @@
 //  }
 
 //  console.log(y);
+
+
+
+
  
