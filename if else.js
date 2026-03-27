@@ -137,6 +137,3 @@
 //        console.log("Notog'ri son kiritildi ❌");
        
 // }
- 
-
-
