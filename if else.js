@@ -38,7 +38,20 @@
 
 
 
-let a = prompt("a soni");
-let b = prompt(" b soni");
-let c = prompt("c soni");
+// let a = prompt("a soni");
+// let b = prompt(" b soni");
+// let c = prompt("c soni");
+
+// let min = a;
+// let max = a;
+
+// if(b < min) min = b;
+// if(c < min) min = c;
+
+// if(b < max) max = b;
+// if(c < max) max = c;
+
+
+// console.log("kichik son", min);
+// console.log("kotta son", max);
 
