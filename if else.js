@@ -71,3 +71,5 @@
 // } else {
 //     console.log("Ikkita teng son yo'q");
 // }
+
+
