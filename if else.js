@@ -73,6 +73,13 @@
 // }
 
 
-let x = prompt("x sonini kiriting");
-let y;
+// let x = prompt("x sonini kiriting");
+// let y;
+//  if (x < -2 || x > 2) {
+//     y = 2 * x;
+//  }else{
+//     y = -3 * x;
+//  }
+
+//  console.log(y);
  
