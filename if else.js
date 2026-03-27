@@ -73,3 +73,6 @@
 // }
 
 
+let x = prompt("x sonini kiriting");
+let y;
+ 
