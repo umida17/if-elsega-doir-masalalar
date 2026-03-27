@@ -86,6 +86,22 @@
 //  console.log(y);
 
 
+let n = prompt("Butun son kiriting:");
 
+if (n === 0) {
+    console.log("nol");
+} else if (n > 0) {
+    if (n % 2 === 0) {
+        console.log("musbat juft");
+    } else {
+        console.log("musbat toq");
+    }
+} else {
+    if (n % 2 === 0) {
+        console.log("manfiy juft");
+    } else {
+        console.log("manfiy toq");
+    }
+}
 
  
