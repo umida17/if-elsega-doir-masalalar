@@ -55,3 +55,6 @@
 // console.log("kichik son", min);
 // console.log("kotta son", max);
 
+
+
+
