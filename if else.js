@@ -11,6 +11,9 @@
 // console.log(a);
 
 
+
+
+
 // let a = parseInt(prompt("1-sonni kiriting:"));
 // let b = parseInt(prompt("2-sonni kiriting:"));
 // let c = parseInt(prompt("3-sonni kiriting:"));
