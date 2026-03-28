@@ -179,6 +179,18 @@
 
 
 
+// let a = + prompt("1 soni kiriting");
+// let b = + prompt("2 soni kiritting");
+// if (a > b) {
+//     console.log("Kotta son",a);
+    
+// }else if(b > a){
+//     console.log("Kotta son",b);
+    
+// }else{
+//     console.log("Ikkala son teng");
+    
+// }
 
 
 
