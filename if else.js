@@ -165,5 +165,16 @@
 
 
 
+// let a = +prompt("a sonini kiriting");
+// let b = +prompt("b sonini kiriting");
+// let c = +prompt("c sonini kiriting");
+
+// let count = 0;
+
+// if(a > 0 )count++;
+// if(b > 0 )count++;
+// if(c > 0 )count++;
+
+// console.log(count);
 
 
