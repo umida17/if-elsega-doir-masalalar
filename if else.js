@@ -196,6 +196,23 @@
 
 
 
+// let c = + prompt("1 soni kiriting");
+// let d = + prompt("2 soni kiritting");
+
+// if (c < d) {
+//     console.log("Kichik son",c);
+    
+// }else if(d < c){
+//     console.log("Kichik son",d);
+    
+// }else{
+//     console.log("Ikkala kichik son teng");
+    
+// }
+
+
+
+
 
 
 
