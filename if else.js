@@ -152,6 +152,15 @@
 
 
 
+// let son = +prompt("son kiriting");
 
+// if (son > 0) {
+//     son = son + 1;
+// }else if (son < 0){
+//     son = son - 2;
+// }else{
+//     son = 10;
+// }
+// console.log(son);
 
 
