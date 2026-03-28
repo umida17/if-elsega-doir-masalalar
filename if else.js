@@ -212,6 +212,19 @@
 
 
 
+// let m = + prompt("1 soni kiriting");
+// let n = + prompt("2 soni kiritting");
+
+// if (m > n) {
+//     console.log("Katta son",m);
+//     console.log("Kichik son",n);
+// }else if(n < m){
+//     console.log("Kichik son",n);
+//     console.log("Katta son",m);
+// }else{
+//     console.log("Ikkala  son teng");
+    
+// }
 
 
 
