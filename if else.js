@@ -140,3 +140,4 @@
 
 
 
+let a = prompt("a sonini kiriting");
