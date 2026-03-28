@@ -229,7 +229,17 @@
 
 
 
+// let A = parseFloat(prompt("A sonini kiriting:"));
+// let B = parseFloat(prompt("B sonini kiriting:"));
+ 
+// if (A > B) {
+//     let temp = A;
+//     A = B;
+//     B = temp;
+// }
 
+// console.log("A:", A);
+// console.log("B:", B);
 
 
 
