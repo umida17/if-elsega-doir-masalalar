@@ -140,4 +140,13 @@
 
 
 
-let a = prompt("a sonini kiriting");
+// let a = +prompt("a sonini kiriting");
+
+// if(a > 0){
+//     a = a + 1;
+
+// }
+// console.log(a);
+
+
+
