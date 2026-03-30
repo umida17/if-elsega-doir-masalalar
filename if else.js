@@ -303,5 +303,20 @@
 
 
 
+// let a = 7;
+// let b = 2;
+// let c = 5;
+
+// let min;
+
+// if (a <= b && a <= c) {
+//     min = a;
+// }else if(b <= a && b <= c){
+//     min = b;
+// }else{
+//     min = c;
+// }
+// console.log("Kichik son",min);
+
 
 
