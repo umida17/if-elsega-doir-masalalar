@@ -322,3 +322,15 @@
 
 
 
+// let s = +prompt("s sonini kiriting");
+// let d = +prompt("d sonini kiriting");
+// let f = +prompt("f sonini kiriting");
+
+// if (s >= d && c <= f || s >= d && s <= f) {
+//     orta = s;
+// }else if(d >= s && d <= f || d >= f && f <= s ){
+//     orta = d;
+// }else{
+//     orta = f;
+// }
+// console.log("ortacha son",+ orta);
