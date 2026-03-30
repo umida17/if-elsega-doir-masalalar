@@ -337,4 +337,17 @@
 
 
 
+// let a = +prompt("a sonini kiriitng");
+// let b = +prompt("b sonini kiriitng");
+// let c = +prompt("c sonini kiriitng");
+
+
+// let katta = Math.max(a, b, c);
+// let kichik = Math.min(a, b, c);
+
+
+// let orta = (a + b + c) - (katta + kichik) ;
+
+
+// console.log("katta son", katta, "orta son", orta);
 
