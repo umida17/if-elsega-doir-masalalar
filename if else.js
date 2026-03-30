@@ -272,3 +272,16 @@
 
 
 
+// let a = 5;
+// let b = 3;
+
+// if (a !== b) {
+//     let sum = a + b;
+//     a = sum;
+//     b = sum;
+// }else{
+//     a = 0;
+//     b = 0;
+// }
+// console.log("a =",a);
+// console.log("b =",b);
