@@ -243,11 +243,31 @@
 
 
 
+// let A = 10.5;
+// let B = 2;
+// let amal = +prompt("son kiriting 1 dan 4 gacha bo'gan son kiriitng");
 
+// let result;
 
+// if (amal === 1) {
+//   result = A + B;
+// } else if (amal === 2) {
+//   result = A - B;
+// } else if (amal === 3) {
+//   if (B === 0) {
+//     console.log("0 ga bo‘lish mumkin emas");
+//   } else {
+//     result = A / B;
+//   }
+// } else if (amal === 4) {
+//   result = A * B;
+// } else {
+//   console.log("Noto‘g‘ri amal kiritildi");
+// }
 
-
-
+// if (result !== undefined) {
+//   console.log("Natija:", result);
+// }
 
 
 
