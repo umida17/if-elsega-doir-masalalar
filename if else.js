@@ -334,3 +334,6 @@
 //     orta = f;
 // }
 // console.log("ortacha son",+ orta);
+
+
+
