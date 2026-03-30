@@ -288,4 +288,16 @@
 
 
 
+// let a = 7;
+// let b = 7;
+// if (a !== b ) {
+//     let max = a > b ? a : b;
+//     a = max;
+//     b = max;
+// }else{
+//     a = 0;
+//     b = 0;
+// }
+// console.log("a =", a);
+// console.log("b =", b);
 
