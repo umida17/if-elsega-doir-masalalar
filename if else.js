@@ -415,3 +415,15 @@
 
 
 
+// let x =  +prompt("x ni kiriting:");
+// let y;
+
+// if (x <= 0) {
+//     y = -x;
+// } else if (x < 2) {
+//     y = x * x;
+// } else {
+//     y = 4;
+// }
+
+// console.log("y =", y);
