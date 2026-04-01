@@ -377,22 +377,22 @@
 
 
 
-let A = parseFloat(prompt("A ni kiriting:"));
-let B = parseFloat(prompt("B ni kiriting:"));
-let C = parseFloat(prompt("C ni kiriting:"));
+// let A = parseFloat(prompt("A ni kiriting:"));
+// let B = parseFloat(prompt("B ni kiriting:"));
+// let C = parseFloat(prompt("C ni kiriting:"));
 
-if ((A <= B && B <= C) || (A >= B && B >= C)) {
-     A = A * 2;
-    B = B * 2;
-    C = C * 2;
-} else {
-    // aks holda
-    A = -A;
-    B = -B;
-    C = -C;
-}
+// if ((A <= B && B <= C) || (A >= B && B >= C)) {
+//      A = A * 2;
+//     B = B * 2;
+//     C = C * 2;
+// } else {
+//     // aks holda
+//     A = -A;
+//     B = -B;
+//     C = -C;
+// }
 
-console.log("A =", A);
-console.log("B =", B);
-console.log("C =", C);
+// console.log("A =", A);
+// console.log("B =", B);
+// console.log("C =", C);
 
