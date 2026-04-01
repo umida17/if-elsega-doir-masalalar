@@ -473,7 +473,7 @@
 
 
 
-let k = parseInt(prompt("Bahoni kiriting (1-5):"));
+let k =+prompt("Bahoni kiriting (1-5):");
 
 switch (k) {
     case 1:
