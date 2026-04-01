@@ -442,30 +442,30 @@
 
 
 
-let n = parseInt(prompt("1 dan 999 gacha son kiriting:"));
+// let n = +prompt("1 dan 999 gacha son kiriting:");
 
-let xona = "";
-let tur = "";
+// let xona = "";
+// let tur = "";
 
-// xonalar soni
-if (n >= 1 && n <= 9) {
-    xona = "bir xonali";
-} else if (n <= 99) {
-    xona = "ikki xonali";
-} else if (n <= 999) {
-    xona = "uch xonali";
-} else {
-    console.log("Noto‘g‘ri son!");
-}
+// // xonalar soni
+// if (n >= 1 && n <= 9) {
+//     xona = "bir xonali";
+// } else if (n <= 99) {
+//     xona = "ikki xonali";
+// } else if (n <= 999) {
+//     xona = "uch xonali";
+// } else {
+//     console.log("Noto‘g‘ri son!");
+// }
 
-// juft yoki toq
-if (n % 2 === 0) {
-    tur = "juft son";
-} else {
-    tur = "toq son";
-}
+// // juft yoki toq
+// if (n % 2 === 0) {
+//     tur = "juft son";
+// } else {
+//     tur = "toq son";
+// }
 
-// natija
-if (n >= 1 && n <= 999) {
-    console.log(xona + " " + tur);
-}
+// // natija
+// if (n >= 1 && n <= 999) {
+//     console.log(xona + " " + tur);
+// }
