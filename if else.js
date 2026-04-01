@@ -399,3 +399,16 @@
 
 
 
+// let A = +prompt("A ni kiriting:");
+// let B = +prompt("B ni kiriting:");
+// let C =  +prompt("C ni kiriting:");
+// let D =  +prompt("D ni kiriting:");
+
+// if (A === B && A === C) { 
+// } else if (A === B && A === D) {
+//     console.log("3"); 
+// } else if (A === C && A === D) {
+//     console.log("2"); 
+// } else {
+//     console.log("1"); 
+// }
