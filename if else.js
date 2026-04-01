@@ -378,8 +378,8 @@
 
 
 // let A =  +prompt("A ni kiriting:");
-// let B = parseFloat(prompt("B ni kiriting:"));
-// let C = parseFloat(prompt("C ni kiriting:"));
+// let B =  +prompt("B ni kiriting:");
+// let C =  +prompt("C ni kiriting:");
 
 // if ((A <= B && B <= C) || (A >= B && B >= C)) {
 //      A = A * 2;
