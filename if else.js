@@ -431,10 +431,10 @@
 
 
 
-let yil = parseInt(prompt("Yilni kiriting:"));
+// let yil = +prompt("Yilni kiriting:");
 
-if ((yil % 4 === 0 && yil % 100 !== 0) || (yil % 400 === 0)) {
-    console.log("366 kun (kabisa yil)");
-} else {
-    console.log("365 kun");
-}
+// if ((yil % 4 === 0 && yil % 100 !== 0) || (yil % 400 === 0)) {
+//     console.log("366 kun (kabisa yil)");
+// } else {
+//     console.log("365 kun");
+// }
