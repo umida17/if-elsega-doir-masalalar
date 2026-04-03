@@ -511,3 +511,7 @@
 // } else {
 //     console.log("Noto'g'ri oy raqami kiritildi");
 // }
+
+
+
+
