@@ -551,3 +551,6 @@
 // if (metr !== undefined) {
 //     console.log("Kesma uzunligi metrda:", metr);
 // }
+
+
+
