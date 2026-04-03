@@ -529,8 +529,8 @@
 
 
 
-let birlik = Number(prompt("Birlikni kiriting (1-5):"));
-let uzunlik = Number(prompt("Uzunlikni kiriting:"));
+let birlik =  +prompt("Birlikni kiriting (1-5):");
+let uzunlik = +prompt("Uzunlikni kiriting:");
 
 let metr;
 
