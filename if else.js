@@ -609,3 +609,7 @@
 // } else if (oyNomi) {
 //     console.log("Noto'g'ri kun kiritildi");
 // }
+
+
+
+
