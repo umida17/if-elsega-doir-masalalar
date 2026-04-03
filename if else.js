@@ -529,3 +529,25 @@
 
 
 
+let birlik = Number(prompt("Birlikni kiriting (1-5):"));
+let uzunlik = Number(prompt("Uzunlikni kiriting:"));
+
+let metr;
+
+if (birlik === 1) {
+    metr = uzunlik * 0.1;
+} else if (birlik === 2) {
+    metr = uzunlik * 1000;
+} else if (birlik === 3) {
+    metr = uzunlik;
+} else if (birlik === 4) {
+    metr = uzunlik * 0.001;
+} else if (birlik === 5) {
+    metr = uzunlik * 0.01;
+} else {
+    console.log("Noto'g'ri birlik kiritildi");
+}
+
+if (metr !== undefined) {
+    console.log("Kesma uzunligi metrda:", metr);
+}
