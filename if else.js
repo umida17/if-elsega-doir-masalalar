@@ -515,3 +515,14 @@
 
 
 
+let oy = Number(prompt("Oy raqamini kiriting (1-12):"));
+
+if (oy === 1 || oy === 3 || oy === 5 || oy === 7 || oy === 8 || oy === 10 || oy === 12) {
+    console.log("31 kun");
+} else if (oy === 4 || oy === 6 || oy === 9 || oy === 11) {
+    console.log("30 kun");
+} else if (oy === 2) {
+    console.log("28 kun");
+} else {
+    console.log("Noto'g'ri oy raqami kiritildi");
+}
