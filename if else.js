@@ -581,3 +581,31 @@
 
 
 
+
+let D = Number(prompt("Kunni kiriting:"));
+let M = Number(prompt("Oyni kiriting (1-12):"));
+
+let oyNomi;
+let maxKun;
+
+if (M === 1) { oyNomi = "Yanvar"; maxKun = 31; }
+else if (M === 2) { oyNomi = "Fevral"; maxKun = 28; }
+else if (M === 3) { oyNomi = "Mart"; maxKun = 31; }
+else if (M === 4) { oyNomi = "Aprel"; maxKun = 30; }
+else if (M === 5) { oyNomi = "May"; maxKun = 31; }
+else if (M === 6) { oyNomi = "Iyun"; maxKun = 30; }
+else if (M === 7) { oyNomi = "Iyul"; maxKun = 31; }
+else if (M === 8) { oyNomi = "Avgust"; maxKun = 31; }
+else if (M === 9) { oyNomi = "Sentabr"; maxKun = 30; }
+else if (M === 10) { oyNomi = "Oktabr"; maxKun = 31; }
+else if (M === 11) { oyNomi = "Noyabr"; maxKun = 30; }
+else if (M === 12) { oyNomi = "Dekabr"; maxKun = 31; }
+else {
+    console.log("Noto'g'ri oy kiritildi");
+}
+
+if (oyNomi && D >= 1 && D <= maxKun) {
+    console.log(D + " - " + oyNomi);
+} else if (oyNomi) {
+    console.log("Noto'g'ri kun kiritildi");
+}
