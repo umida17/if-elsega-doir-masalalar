@@ -554,3 +554,25 @@
 
 
 
+let birlik = Number(prompt("Birlikni kiriting (1-5):"));
+let ogirlik = Number(prompt("Og'irlikni kiriting:"));
+
+let kg;
+
+if (birlik === 1) {
+    kg = ogirlik;
+} else if (birlik === 2) {
+    kg = ogirlik * 0.000001;
+} else if (birlik === 3) {
+    kg = ogirlik * 0.001;
+} else if (birlik === 4) {
+    kg = ogirlik * 1000;
+} else if (birlik === 5) {
+    kg = ogirlik * 100;
+} else {
+    console.log("Noto'g'ri birlik kiritildi");
+}
+
+if (kg !== undefined) {
+    console.log("Og'irlik kilogramda:", kg);
+}
