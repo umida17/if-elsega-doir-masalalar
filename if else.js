@@ -554,8 +554,10 @@
 
 
 
-let birlik = Number(prompt("Birlikni kiriting (1-5):"));
-let ogirlik = Number(prompt("Og'irlikni kiriting:"));
+
+
+let birlik =  +prompt("Birlikni kiriting (1-5):");
+let ogirlik = +prompt("Og'irlikni kiriting:");
 
 let kg;
 
