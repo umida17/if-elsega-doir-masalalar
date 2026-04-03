@@ -515,7 +515,7 @@
 
 
 
-let oy = Number(prompt("Oy raqamini kiriting (1-12):"));
+let oy = +prompt("Oy raqamini kiriting (1-12):");
 
 if (oy === 1 || oy === 3 || oy === 5 || oy === 7 || oy === 8 || oy === 10 || oy === 12) {
     console.log("31 kun");
