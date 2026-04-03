@@ -613,32 +613,32 @@
 
 
 
-let D =  +prompt("Kunni kiriting:");
-let M = +prompt("Oyni kiriting (1-12):");
+// let D =  +prompt("Kunni kiriting:");
+// let M = +prompt("Oyni kiriting (1-12):");
 
-let maxKun;
+// let maxKun;
 
-if (M === 1 || M === 3 || M === 5 || M === 7 || M === 8 || M === 10 || M === 12) {
-    maxKun = 31;
-} else if (M === 4 || M === 6 || M === 9 || M === 11) {
-    maxKun = 30;
-} else if (M === 2) {
-    maxKun = 28;
-} else {
-    console.log("Noto'g'ri oy");
-}
+// if (M === 1 || M === 3 || M === 5 || M === 7 || M === 8 || M === 10 || M === 12) {
+//     maxKun = 31;
+// } else if (M === 4 || M === 6 || M === 9 || M === 11) {
+//     maxKun = 30;
+// } else if (M === 2) {
+//     maxKun = 28;
+// } else {
+//     console.log("Noto'g'ri oy");
+// }
 
-if (D >= 1 && D < maxKun) {
-    D = D + 1;
-} else if (D === maxKun) {
-    D = 1;
-    if (M === 12) {
-        M = 1;
-    } else {
-        M = M + 1;
-    }
-} else {
-    console.log("Noto'g'ri kun");
-}
+// if (D >= 1 && D < maxKun) {
+//     D = D + 1;
+// } else if (D === maxKun) {
+//     D = 1;
+//     if (M === 12) {
+//         M = 1;
+//     } else {
+//         M = M + 1;
+//     }
+// } else {
+//     console.log("Noto'g'ri kun");
+// }
 
-console.log("Keyingi sana:", D + "." + M);
+// console.log("Keyingi sana:", D + "." + M);
