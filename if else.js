@@ -582,8 +582,8 @@
 
 
 
-let D = Number(prompt("Kunni kiriting:"));
-let M = Number(prompt("Oyni kiriting (1-12):"));
+let D =  +prompt("Kunni kiriting:");
+let M = +prompt("Oyni kiriting (1-12):");
 
 let oyNomi;
 let maxKun;
