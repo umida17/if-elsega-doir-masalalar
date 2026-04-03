@@ -578,3 +578,6 @@
 // if (kg !== undefined) {
 //     console.log("Og'irlik kilogramda:", kg);
 // }
+
+
+
