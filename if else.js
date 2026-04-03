@@ -498,3 +498,16 @@
 
 
 
+let oy = Number(prompt("Oy raqamini kiriting (1-12):"));
+
+if (oy === 12 || oy === 1 || oy === 2) {
+    console.log("qish");
+} else if (oy === 3 || oy === 4 || oy === 5) {
+    console.log("bahor");
+} else if (oy === 6 || oy === 7 || oy === 8) {
+    console.log("yoz");
+} else if (oy === 9 || oy === 10 || oy === 11) {
+    console.log("kuz");
+} else {
+    console.log("Noto'g'ri oy raqami kiritildi");
+}
