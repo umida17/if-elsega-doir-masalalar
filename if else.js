@@ -674,4 +674,25 @@
 
 
 
+let n = parseInt(prompt("Son kiriting (10-40):"));
 
+let tens = ["", "", "yigirma", "o‘ttiz", "qirq"];
+let ones = ["", "bir", "ikki", "uch", "to‘rt", "besh", "olti", "yetti", "sakkiz", "to‘qqiz"];
+
+let result = "";
+
+if (n < 20) {
+    let special = [
+        "o‘nta", "o‘n bitta", "o‘n ikkita", "o‘n uchta",
+        "o‘n to‘rtta", "o‘n beshta", "o‘n oltita",
+        "o‘n yettita", "o‘n sakkizta", "o‘n to‘qqizta"
+    ];
+    result = special[n - 10];
+} else {
+    let t = Math.floor(n / 10);
+    let o = n % 10;
+
+    result = tens[t] + (o ? " " + ones[o] + "ta" : "ta");
+}
+
+console.log(result + " masala");
