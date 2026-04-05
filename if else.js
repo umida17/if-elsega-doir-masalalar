@@ -646,13 +646,12 @@
 
 
 
-let N = parseInt(prompt("Karta qiymatini kiriting (6-14):"));
-let M = parseInt(prompt("Karta turini kiriting (1-4):"));
+let N = +prompt("Karta qiymatini kiriting (6-14):");
+let M =+prompt("Karta turini kiriting (1-4):");
 
 let value = "";
 let type = "";
 
-// Karta qiymati
 if (N === 6) value = "olti";
 else if (N === 7) value = "yetti";
 else if (N === 8) value = "sakkiz";
