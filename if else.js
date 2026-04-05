@@ -720,7 +720,7 @@
 
 
 
-let year = parseInt(prompt("Yil kiriting:"));
+let year =+prompt("Yil kiriting:");
 
 let colors = ["yashil", "qizil", "sariq", "oq", "qora"];
 let animals = ["sichqon", "sigir", "yo‘lbars", "quyon", "ajdar", "ilon", "ot", "qo‘y", "maymun", "tovuq", "it", "to‘ngiz"];
