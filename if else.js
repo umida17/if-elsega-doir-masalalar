@@ -646,26 +646,32 @@
 
 
 
-let N = +prompt("Karta qiymatini kiriting (6-14):");
-let M =+prompt("Karta turini kiriting (1-4):");
+// let N = +prompt("Karta qiymatini kiriting (6-14):");
+// let M =+prompt("Karta turini kiriting (1-4):");
 
-let value = "";
-let type = "";
+// let value = "";
+// let type = "";
 
-if (N === 6) value = "olti";
-else if (N === 7) value = "yetti";
-else if (N === 8) value = "sakkiz";
-else if (N === 9) value = "to‘qqiz";
-else if (N === 10) value = "o‘n";
-else if (N === 11) value = "valet";
-else if (N === 12) value = "dama";
-else if (N === 13) value = "qirol";
-else if (N === 14) value = "tuz";
+// if (N === 6) value = "olti";
+// else if (N === 7) value = "yetti";
+// else if (N === 8) value = "sakkiz";
+// else if (N === 9) value = "to‘qqiz";
+// else if (N === 10) value = "o‘n";
+// else if (N === 11) value = "valet";
+// else if (N === 12) value = "dama";
+// else if (N === 13) value = "qirol";
+// else if (N === 14) value = "tuz";
 
-// Karta turi
-if (M === 1) type = "g‘isht";
-else if (M === 2) type = "olma";
-else if (M === 3) type = "chillak";
-else if (M === 4) type = "qarg‘a";
+// // Karta turi
+// if (M === 1) type = "g‘isht";
+// else if (M === 2) type = "olma";
+// else if (M === 3) type = "chillak";
+// else if (M === 4) type = "qarg‘a";
 
-console.log(value + " " + type);
+// console.log(value + " " + type);
+
+
+
+
+
+
