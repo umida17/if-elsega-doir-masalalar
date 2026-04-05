@@ -700,18 +700,24 @@
 
 
 
-let n = +prompt("100-999 oralig‘ida son kiriting:");
+// let n = +prompt("100-999 oralig‘ida son kiriting:");
 
-let ones = ["", "bir", "ikki", "uch", "to‘rt", "besh", "olti", "yetti", "sakkiz", "to‘qqiz"];
-let tens = ["", "", "yigirma", "o‘ttiz", "qirq", "ellik", "oltmish", "yetmish", "sakson", "to‘qson"];
+// let ones = ["", "bir", "ikki", "uch", "to‘rt", "besh", "olti", "yetti", "sakkiz", "to‘qqiz"];
+// let tens = ["", "", "yigirma", "o‘ttiz", "qirq", "ellik", "oltmish", "yetmish", "sakson", "to‘qson"];
 
-let yuz = Math.floor(n / 100);
-let on = Math.floor((n % 100) / 10);
-let bir = n % 10;
+// let yuz = Math.floor(n / 100);
+// let on = Math.floor((n % 100) / 10);
+// let bir = n % 10;
 
-let result = ones[yuz] + " yuz";
+// let result = ones[yuz] + " yuz";
 
-if (on > 0) result += " " + tens[on];
-if (bir > 0) result += " " + ones[bir];
+// if (on > 0) result += " " + tens[on];
+// if (bir > 0) result += " " + ones[bir];
 
- console.log(result);
+//  console.log(result);
+
+
+
+
+
+
