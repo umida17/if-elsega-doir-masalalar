@@ -731,3 +731,8 @@
 // let animal = animals[n % 12];
 
 //  console.log(color + " " + animal + " yili");
+
+
+
+Qudrat Abdurahimov ustozimizning C++ dastur nomli kitoblaridan saralab olingan masalalar !
+
