@@ -674,7 +674,7 @@
 
 
 
-let n = parseInt(prompt("Son kiriting (10-40):"));
+let n = +prompt("Son kiriting (10-40):");
 
 let tens = ["", "", "yigirma", "o‘ttiz", "qirq"];
 let ones = ["", "bir", "ikki", "uch", "to‘rt", "besh", "olti", "yetti", "sakkiz", "to‘qqiz"];
