@@ -714,4 +714,4 @@ let result = ones[yuz] + " yuz";
 if (on > 0) result += " " + tens[on];
 if (bir > 0) result += " " + ones[bir];
 
- 
+ console.log(result);
