@@ -720,4 +720,14 @@
 
 
 
+let year = parseInt(prompt("Yil kiriting:"));
 
+let colors = ["yashil", "qizil", "sariq", "oq", "qora"];
+let animals = ["sichqon", "sigir", "yo‘lbars", "quyon", "ajdar", "ilon", "ot", "qo‘y", "maymun", "tovuq", "it", "to‘ngiz"];
+
+let n = year - 1984;
+
+let color = colors[Math.floor((n % 10) / 2)];
+let animal = animals[n % 12];
+
+ 
