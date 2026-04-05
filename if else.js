@@ -730,4 +730,4 @@ let n = year - 1984;
 let color = colors[Math.floor((n % 10) / 2)];
 let animal = animals[n % 12];
 
- 
+ console.log(color + " " + animal + " yili");
