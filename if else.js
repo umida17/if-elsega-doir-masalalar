@@ -734,5 +734,5 @@
 
 
 
-Qudrat Abdurahimov ustozimizning C++ dastur nomli kitoblaridan saralab olingan masalalar !
+// Qudrat Abdurahimov ustozimizning C++ dastur nomli kitoblaridan saralab olingan masalalar !
 
