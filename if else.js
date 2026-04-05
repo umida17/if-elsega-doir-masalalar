@@ -700,7 +700,7 @@
 
 
 
-let n = parseInt(prompt("100-999 oralig‘ida son kiriting:"));
+let n = +prompt("100-999 oralig‘ida son kiriting:");
 
 let ones = ["", "bir", "ikki", "uch", "to‘rt", "besh", "olti", "yetti", "sakkiz", "to‘qqiz"];
 let tens = ["", "", "yigirma", "o‘ttiz", "qirq", "ellik", "oltmish", "yetmish", "sakson", "to‘qson"];
